@@ -1,6 +1,6 @@
 # Página web de gestión de Bloques - Navantia
 
-**Autor:** Ruben Fernandez Farelo
+**Autor:** Rubén Fernández Farelo
 
 Este proyecto consiste en una aplicación web para la gestión y visualización de bloques de construcción naval, desarrollada con React en el frontend y Node.js en el backend.
 
