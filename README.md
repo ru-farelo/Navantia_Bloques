@@ -1,4 +1,4 @@
-# Página web de gestión de Bloques - Navantia
+# Sistema Web de Gestión de Bloques de Construcción Naval – Navantia
 
 **Autor:** Rubén Fernández Farelo
 
