@@ -1,4 +1,4 @@
-# API de Bloques - Navantia
+# Página web de gestión de Bloques - Navantia
 
 **Autor:** Ruben Fernandez Farelo
 
