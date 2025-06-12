@@ -316,8 +316,6 @@ export default function Mapa({
         background: '#f8f9fa',
         borderBottom: 'none'
       }}>
-        {/* Eliminar este bloque de botón de rueda de configuración */}
-        {/* <Button ...> ... </Button> */}
       </div>
       
       <div id="map" ref={mapRef} style={{ width: '100%', height: '90vh', position: 'relative' }} />
