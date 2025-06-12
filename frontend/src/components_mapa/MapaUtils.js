@@ -22,7 +22,7 @@ import { intersects as intersectsExtent } from 'ol/extent';
  * - alto: Alto del bloque en unidades del mapa
  */
 export const bloquesPredefinidos = [
-  { nombre: 'CIST (Bloque)', color: '#f4a460', ancho: 30, alto: 20 },
+  { nombre: 'F-111 (Bloque)', color: '#f4a460', ancho: 30, alto: 20 },
   { nombre: 'F-111 Elemento', color: '#ff9900', ancho: 20, alto: 15 },
   { nombre: 'F-111 (Cama) (Previas)', color: '#4682b4', ancho: 25, alto: 18 },
   { nombre: 'F-111 (Bloque)', color: '#2e8b57', ancho: 30, alto: 20 },
