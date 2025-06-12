@@ -12,7 +12,6 @@ La aplicación permite:
 - Gestionar tipos de bloques y sus características
 - Filtrar bloques por fechas
 - Previsualizar cambios antes de guardar
-- Detectar colisiones entre bloques
 
 ## Estructura del Proyecto
 
