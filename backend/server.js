@@ -15,5 +15,5 @@ app.use('/api/tipos-bloque', tiposBloqueRoutes);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`✅ Backend escuchando en http://localhost:${PORT}`);
+  console.log(` Backend escuchando en http://localhost:${PORT}`);
 });
