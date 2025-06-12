@@ -22,7 +22,6 @@ El frontend de la aplicación está desarrollado con React y OpenLayers, proporc
   - Gestiona la interacción con bloques (selección, movimiento, edición)
   - Maneja la previsualización de bloques antes de su creación
   - Controla los modos de interacción (creación, edición, movimiento)
-  - Implementa la detección de colisiones entre bloques
   - Gestiona la información de talleres y su visualización
 
 - `src/components/MapaUtils.js`: 
