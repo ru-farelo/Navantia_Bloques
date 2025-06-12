@@ -20,7 +20,7 @@ export async function ensureDatabaseAndTable() {
   const poolDb = await sql.connect(config);
 
   if (isDev) {
-    console.log('⚠️ Entorno de desarrollo detectado: se eliminará la tabla Bloques si existe.');
+    console.log('Entorno de desarrollo detectado: se eliminará la tabla Bloques si existe.');
     await poolDb.request().query(`
       IF OBJECT_ID('dbo.Bloques', 'U') IS NOT NULL
       BEGIN
